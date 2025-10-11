@@ -21,7 +21,7 @@ name = "datasha" # string
 print (name)
 
 age = 16 
-print (16) #integer
+print (age) #integer
 
 height = 1.75 # float
 print (height)
