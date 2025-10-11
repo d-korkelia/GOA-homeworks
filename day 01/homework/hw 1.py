@@ -10,10 +10,10 @@ asaki = 16
 simagle = 1.76
 
 # ცვლადების დაბეჭდვა
-print("saxeli:", saxeli)
-print("gvari:", gvari)
-print("asaki:", asaki)
-print("simagle:", simagle)
+print("saxeli", saxeli)
+print("gvari", gvari)
+print("asaki", asaki)
+print("simagle", simagle)
 
 #ნებისმიერი რიცხვი და გარდაქმენით ის ორობით სისტემაში
 
