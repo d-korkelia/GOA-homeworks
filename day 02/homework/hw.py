@@ -83,4 +83,9 @@ number = 7
 # % ნიშნავს "უნაშთო გაყოფის ნაშთის პოვნას"
 # თუ ნაშთი 0-ია — რიცხვი უნაშთოდ იყოფა 2-ზე (ანუ ლუწია)
 
-print("The number is even") if number % 2 == 0  else print("The number is odd") 
+number = 10
+
+if number % 2 == 0:
+    print ("the number is even")
+else:
+    print ("the number is odd")
