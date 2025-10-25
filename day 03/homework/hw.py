@@ -35,7 +35,7 @@ print("69 (+):", num1 + num2)
 print("53 (-):", num1 - num2)
 print("122 (*):", num1 * num2)
 
-name = input("dtshx ")
+name = input("enter your name ")
 
 if name == my_name:
     print("We have the same name")
