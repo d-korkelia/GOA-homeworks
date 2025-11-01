@@ -60,3 +60,7 @@ else:
 a = int(input("choose first number: "))
 b = int(input("choose second number: "))
 c = int(input("choose third number: "))
+
+#1-დან 20-მდე ჩათვლით
+for i in range(1, 20 + 1): 
+    sum = sum + i  
