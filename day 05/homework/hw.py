@@ -18,6 +18,7 @@ for i in range(10):
     print(i)
 
 name = input("enter ur name: ")
+vowels = "aeiou"
 
 password = "paroli"
 enter = input("შეიყვანეთ პაროლი")

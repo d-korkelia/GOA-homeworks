@@ -25,3 +25,4 @@ for i in name:
 
 for letter in "yone and yasou":
     print(letter)
+
