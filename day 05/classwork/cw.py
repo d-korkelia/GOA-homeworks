@@ -3,7 +3,7 @@ user_number = int(input("enter the number: "))
 
 for i in range(1, 120 + 1): 
     sum = sum + i
-\
+
 for i in range(5):
     print(i)
 
